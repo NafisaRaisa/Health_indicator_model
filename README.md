@@ -9,11 +9,12 @@ Data Cleaning: The original dataset needed some values and needed to be more bal
 Implemented different machine learnibg models. Below are the results:
 
 
-|Naive-Bayes | Random-Forest | Decision-Tree | K-Neighbors |
-|----------|----------|----------|
-| Precision | 73% | 70.02% | 70.99% | 74.21% |
-| Recall | 74.08% | 68.63% | 80.52%| 49.25% |
-| Accuracy | 73% | 69.59% |72.59% | 66.21% |
+|              | Naive-Bayes   | Random-Forest | Decision-Tree | K-Neighbors |
+|--------------|---------------|---------------|---------------|-------------|
+| Precision    | 73%           | 70.02%        | 70.99%        | 74.21%      |
+| Recall       | 74.08%        | 68.63%        | 80.52%        | 49.25%      |
+| Accuracy     | 73%           | 69.59%        | 72.59%        | 66.21%      |
+
 
 
 
